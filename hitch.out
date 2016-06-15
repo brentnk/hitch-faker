@@ -1,0 +1,127 @@
+  id   | client_id | driver_id | client_rating | driver_rating | request_device |  status   | predicted_eta | actual_eta | city_id |       request_at       
+-------+-----------+-----------+---------------+---------------+----------------+-----------+---------------+------------+---------+------------------------
+    46 |        77 |        70 |               |               | iphone         | completed |               |            |       8 | 2013-12-05 16:46:33+00
+   295 |       832 |        28 |               |               | iphone         | completed |               |            |       3 | 2013-12-07 09:00:20+00
+   734 |       979 |       222 |               |               | iphone         | completed |               |            |       0 | 2013-12-04 18:49:53+00
+   966 |       628 |       823 |               |               | iphone         | completed |               |            |       6 | 2013-12-07 03:37:10+00
+  3480 |       933 |       915 |               |               | iphone         | completed |               |            |       0 | 2013-12-06 22:29:22+00
+  5226 |       287 |       956 |               |               | iphone         | completed |               |            |      10 | 2013-12-05 03:02:41+00
+  5463 |       151 |       846 |               |               | iphone         | completed |               |            |       1 | 2013-12-05 03:05:02+00
+  5509 |       907 |       238 |               |               | iphone         | completed |               |            |      10 | 2013-12-02 10:20:47+00
+  5796 |       760 |       482 |               |               | iphone         | completed |               |            |       4 | 2013-12-06 10:42:28+00
+  7624 |       945 |       847 |               |               | iphone         | completed |               |            |       6 | 2013-12-02 02:28:27+00
+  9051 |       124 |         7 |               |               | iphone         | completed |               |            |       5 | 2013-12-06 15:14:21+00
+  9136 |        20 |       868 |               |               | iphone         | completed |               |            |       9 | 2013-12-05 02:46:52+00
+  9592 |       570 |       533 |               |               | iphone         | completed |               |            |       3 | 2013-12-05 19:22:54+00
+  9934 |       697 |       422 |               |               | iphone         | completed |               |            |       7 | 2013-12-05 19:04:48+00
+ 10526 |       259 |       986 |               |               | iphone         | completed |               |            |       5 | 2013-12-06 21:58:15+00
+ 11073 |       185 |       224 |               |               | iphone         | completed |               |            |       0 | 2013-12-06 03:19:37+00
+ 11149 |       784 |       990 |               |               | iphone         | completed |               |            |      10 | 2013-12-05 18:45:50+00
+ 11201 |       215 |       953 |               |               | iphone         | completed |               |            |       8 | 2013-12-07 01:20:37+00
+ 11497 |       505 |         8 |               |               | iphone         | completed |               |            |       1 | 2013-12-04 11:35:59+00
+ 11935 |       148 |       236 |               |               | iphone         | completed |               |            |       8 | 2013-12-04 23:46:02+00
+ 12103 |       639 |        10 |               |               | iphone         | completed |               |            |       6 | 2013-12-07 13:11:24+00
+ 12362 |       690 |       924 |               |               | iphone         | completed |               |            |       7 | 2013-12-06 13:03:23+00
+ 12466 |       473 |       232 |               |               | iphone         | completed |               |            |       3 | 2013-12-07 21:31:44+00
+ 12919 |       865 |       809 |               |               | iphone         | completed |               |            |       5 | 2013-12-07 23:48:59+00
+ 13733 |       457 |       785 |               |               | iphone         | completed |               |            |       6 | 2013-12-03 22:00:10+00
+ 14371 |       561 |        58 |               |               | iphone         | completed |               |            |      10 | 2013-12-06 13:31:18+00
+ 14720 |       920 |       982 |               |               | iphone         | completed |               |            |      10 | 2013-12-03 18:11:20+00
+ 15658 |       801 |       179 |               |               | iphone         | completed |               |            |       4 | 2013-12-04 14:06:37+00
+ 16961 |       352 |       965 |               |               | iphone         | completed |               |            |       2 | 2013-12-07 09:45:27+00
+ 17199 |       992 |        53 |               |               | iphone         | completed |               |            |       9 | 2013-12-02 06:34:56+00
+ 17598 |       136 |       675 |               |               | iphone         | completed |               |            |       3 | 2013-12-07 15:17:34+00
+ 19770 |       397 |       367 |               |               | iphone         | completed |               |            |       8 | 2013-12-03 03:47:37+00
+(32 rows)
+
+ firstname  | count_usersid | count_trips 
+------------+---------------+-------------
+ Katherine  |             1 |           1
+ Ossie      |             1 |           1
+ Leta       |             1 |           1
+ Ignatz     |             2 |           2
+ Hildegarde |             1 |           1
+ Tamela     |             1 |           1
+ Sheldon    |             1 |           1
+ Shakira    |             1 |           1
+ Elbridge   |             1 |           1
+ Brien      |             2 |           2
+ Adelle     |             1 |           1
+ Campbell   |             2 |           2
+ Devonte    |             1 |           1
+ Lorenza    |             1 |           1
+ Marge      |             2 |           2
+ Hymen      |             2 |           2
+ Clemens    |             1 |           1
+ Bettylou   |             1 |           1
+ Shania     |             2 |           2
+ Bailey     |             2 |           2
+ Grady      |             1 |           1
+ Grayce     |             1 |           1
+ Lalla      |             1 |           1
+ Corbett    |             1 |           1
+ Rosemary   |             1 |           1
+ Lem        |             2 |           2
+ Alla       |             1 |           1
+ Jaylah     |             1 |           1
+ Cortney    |             1 |           1
+ Laverne    |             2 |           2
+ Enrico     |             1 |           1
+ Lincoln    |             1 |           1
+ Williemae  |             1 |           1
+ Jane       |             2 |           2
+ Angeles    |             2 |           2
+ Jose       |             1 |           1
+ Ottilie    |             1 |           1
+ Dee        |             1 |           1
+ Erla       |             2 |           2
+ Codey      |             2 |           2
+ Yadiel     |             1 |           1
+ Keanna     |             1 |           1
+ Ewin       |             1 |           1
+ Cleveland  |             1 |           1
+ Hershell   |             1 |           1
+ Helyn      |             1 |           1
+ Shelvia    |             1 |           1
+ Inga       |             1 |           1
+ Brandt     |             2 |           2
+ Aniya      |             1 |           1
+ Kathern    |             3 |           3
+ Shanell    |             1 |           1
+ Babe       |             1 |           1
+ Levie      |             1 |           1
+ Arvid      |             1 |           1
+ Anahi      |             1 |           1
+ Aileen     |             1 |           1
+ Javonte    |             1 |           1
+ Alcie      |             2 |           2
+ Shanda     |             1 |           1
+ Ashli      |             1 |           1
+ Carnell    |             2 |           2
+ Page       |             3 |           3
+ Delaney    |             1 |           1
+ Georgene   |             1 |           1
+ Elmer      |             1 |           1
+ Nayeli     |             1 |           1
+ Lilyana    |             1 |           1
+ Adline     |             2 |           2
+ Yusuf      |             2 |           2
+ Irine      |             1 |           1
+ Zechariah  |             1 |           1
+ Taft       |             1 |           1
+ Reta       |             1 |           1
+ Elizabet   |             2 |           2
+ Magan      |             1 |           1
+ Nathanael  |             1 |           1
+ Stanford   |             2 |           2
+ Benjman    |             2 |           2
+ Florine    |             1 |           1
+ Male       |             2 |           2
+ Parker     |             1 |           1
+(82 rows)
+
+ usersid |           email           | firstname | lastname | banned |  role  |      creationtime      |  id  | client_id | driver_id | client_rating | driver_rating | request_device |       status        | predicted_eta | actual_eta | city_id |       request_at       | usersid |        email        | firstname | lastname | banned |  role  |      creationtime      
+---------+---------------------------+-----------+----------+--------+--------+------------------------+------+-----------+-----------+---------------+---------------+----------------+---------------------+---------------+------------+---------+------------------------+---------+---------------------+-----------+----------+--------+--------+------------------------
+     435 | flatleymeadow@hotmail.com | Shelbi    | Beahan   | f      | client | 2013-10-16 18:45:55+00 | 5199 |       435 |       456 |               |               | iphone         | cancelled_by_driver |               |            |       8 | 2013-09-13 23:15:47+00 |     456 | gpredovic@yahoo.com | Jones     | Kilback  | t      | driver | 2013-09-02 10:02:43+00
+(1 row)
+
