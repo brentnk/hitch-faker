@@ -17,6 +17,7 @@ psql -d hitchminiquiz -f ./setup_schema.sql
 ```
 Create fake data
 ```bash
+pip install fake-factory
 python sql_hitch_fake.py --user-count <int> --trip-count <int>
 ```
 Populate db
